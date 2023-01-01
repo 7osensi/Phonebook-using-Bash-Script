@@ -7,11 +7,11 @@
 
 This is a phonebook project using bash.
 
-This project is under the supervision of Fady Khalil.
+This project is under the supervision of Fady Khalil:
 [Fady's Linkedin](https://www.linkedin.com/in/fady-khalil-5a23961b0/)
 
 This is my Linkedin profile:
-[Linkedin](https://www.linkedin.com/in/hussein-mohamed-907659179/)
+[My Linkedin](https://www.linkedin.com/in/hussein-mohamed-907659179/)
 
 ## Features
 
@@ -70,8 +70,9 @@ FILE=PhoneBookDataBase.txt
 You can choose from (i, v, e, s, d).
 Adding no arguments to the execute command will display the arguments and their functionality.
 ```sh
+/* With Arguments */
 ./phonebook.sh -i
+OR
+/* Without Arguments */
+./phonebook.sh
 ```
-
-
-
